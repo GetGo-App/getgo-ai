@@ -24,7 +24,7 @@ GetGo AI is an artificial intelligence model designed to enhance the travel plan
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pphuc25/GetGo-AI.git
+    git clone https://github.com/GetGo-App/getgo-ai
     ```
 2. Start Searxng
     ```
